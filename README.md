@@ -1,6 +1,3 @@
-Here is a structured **README** for your **Instagram Reach Analysis** project:  
-
----
 
 # 📊 Analyzing Instagram Reach  
 
